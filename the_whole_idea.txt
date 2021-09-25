@@ -1,0 +1,34 @@
+social tomato
+front-end
+--------------
+    
+    react/react native -> JS
+    redux -> typescript
+    sass -> nesting/mixins/varibles/functions
+    tailwindcss -> prebuild css
+    postcss -> purge/autoprefix/minify
+    bundle -> webpack
+
+backend
+----------
+    database  
+        - mysql -> 
+        - redux -> caching layer to a database(mysql)
+    
+    runtime(nodejs) -> NestJs(server-side) -> typescript
+    typeORM -> object relational mapper -> to write to a database
+    nginx(web server)
+    docker -> for enviroment
+    kubernetes -> to orchestract multiple containers
+    host -> aws -> terraform
+    hosting the code -> github
+
+APIS
+---------
+    graphQL with Apollo
+    user autentication -> auth0
+    to deal with payments -> stripe
+    to not have a dick pics on my social midea app -> aws rekognition
+    twilio -> text messages
+
+grafana for watching the hole thing
